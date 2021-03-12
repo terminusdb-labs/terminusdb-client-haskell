@@ -33,7 +33,7 @@ queryAllDatabases = Query (Using "_system"
                            )
 ```
 
-Querying this can be done by using `executeClient`.
+Querying this can be done by using `executeQuery`.
 
 
 ```haskell
